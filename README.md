@@ -1,2 +1,1 @@
-# Personal Websit for Mingyag
-Create a personal website for Academic and Personal Use
+This is a perrssonal webite built for Mingyang Zhou by forking from the  source code to Jon Barron's public academic website: https://jonbarron.info/.
